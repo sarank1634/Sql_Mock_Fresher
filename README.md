@@ -1,6 +1,6 @@
 # Sql_Mock_Fresher
 
-## 1. What is SQL?
+##1. What is SQL?
 
 ```SQL means Structured Query Language and is used to communicate with relational databases. It proposes a standardized way to interact with databases, allowing users to perform various operations on the data, including retrieval, insertion, updating, and deletion.
 
