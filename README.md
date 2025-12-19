@@ -56,7 +56,7 @@ Ensures data integrity```
 
 ```NULL represents missing or unknown data. It is not zero or an empty string. To check NULLs, use IS NULL or IS NOT NULL.```
 
-## 10.What is the difference between CHAR and VARCHAR?
+##10.What is the difference between CHAR and VARCHAR?
 
 ```CHAR(n): Fixed length; pads unused space with blanks.
 
