@@ -18,7 +18,7 @@ DCL (Data Control Language): GRANT, REVOKE
 
 TCL (Transaction Control Language): COMMIT, ROLLBACK, SAVEPOINT ```
 
-## 3.What is the difference between Database, DBMS, and RDBMS?
+##3.What is the difference between Database, DBMS, and RDBMS?
 
 ```Database: Organized collection of data.
 
